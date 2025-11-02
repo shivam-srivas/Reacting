@@ -1,0 +1,23 @@
+{
+  "name": "reacting",
+  "version": "1.0.0",
+  "description": "This is my react playground",
+  "homepage": "https://github.com/shivam-srivas/Reacting#readme",
+  "bugs": {
+    "url": "https://github.com/shivam-srivas/Reacting/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-srivas/Reacting.git"
+  },
+  "license": "ISC",
+  "author": "Shivam Srivastava",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
